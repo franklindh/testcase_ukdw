@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_DosenSistem Informasi</name>
+   <tag></tag>
+   <elementGuidId>fd5ec579-f1c7-42bd-8cdb-c435bdf725cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='et-boc']/div/div/div[2]/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9226f5d7-699e-46fa-a700-8bf5b91b1b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dosen Sistem Informasi</value>
+      <webElementGuid>8b4132c9-a97e-403c-a1b7-75e963432323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;et-boc&quot;)/div[@class=&quot;et_builder_inner_content et_pb_gutters3&quot;]/div[@class=&quot;et_pb_section et_pb_section_0 et_section_regular&quot;]/div[@class=&quot;et_pb_row et_pb_row_1&quot;]/div[@class=&quot;et_pb_column et_pb_column_2_3 et_pb_column_1    et_pb_css_mix_blend_mode_passthrough&quot;]/div[@class=&quot;et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left&quot;]/div[@class=&quot;et_pb_text_inner&quot;]/p[1]</value>
+      <webElementGuid>8f0e2d28-e1ec-42bf-8cd7-fc0e68f3a417</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='et-boc']/div/div/div[2]/div/div/div/p</value>
+      <webElementGuid>7c3600e2-cca7-4970-a7ff-3cee0726c713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wakil Dekan II Fakultas Teknologi Informasi'])[1]/following::p[1]</value>
+      <webElementGuid>a80ecf60-8cd9-471e-97a2-e86c9259b268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Argo Wibowo, S.T., MT'])[2]/following::p[1]</value>
+      <webElementGuid>40a4ab63-f1cc-4b52-b9e8-ec1a8fe42799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1ff603a7-1917-4c4b-8ec1-57d9b86fd004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Dosen Sistem Informasi' or . = 'Dosen Sistem Informasi')]</value>
+      <webElementGuid>458ba75a-fa04-4406-92ba-a36d96de2b8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
